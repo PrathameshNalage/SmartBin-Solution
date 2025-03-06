@@ -87,3 +87,9 @@ SmartBin-Solutions/
 📈 Expand the system to handle more waste categories.  
 
 ---
+## Contributors
+- **Prathamesh & Team**
+
+## 📩  Contact
+- **GitHub**: [PrathameshNalage](#) (https://github.com/PrathameshNalage)
+- **Email**: [prathameshnalage123@gmail.com](prathameshnalage123@gmail.com)
