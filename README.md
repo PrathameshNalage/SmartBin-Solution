@@ -87,6 +87,10 @@ SmartBin-Solutions/
 📈 Expand the system to handle more waste categories.  
 
 ---
+## 🎥 Video Reference
+A demonstration video of the project can be accessed through the following link:
+[▶️ Project Video](https://www.youtube.com/watch?v=riHRDPI6oL0)
+---
 ## Contributors
 - **Prathamesh & Team**
 
